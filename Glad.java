@@ -1,5 +1,5 @@
 public class Glad {
-	public static void sad() {
+	public static void glad() {
 		System.out.println("We are all glad.");
 	}
 }
